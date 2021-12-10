@@ -3,7 +3,11 @@
         {
             "name" : "clister",
             "course" : "bsit"
-        } 
+        },
+        {
+            "name" : "Michael",
+            "course" : "bsit"
+        }
     ],
     "instructors" :[
         {
