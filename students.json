@@ -1,0 +1,15 @@
+{
+    "students": [
+        {
+            "name" : "clister",
+            "course" : "bsit"
+        } 
+    ],
+    "instructors" :[
+        {
+            "name" : "Albert Einstien",
+            "course" : "bsit"
+        }
+    ]
+    
+}
